@@ -1,7 +1,7 @@
 title: Spanish Mix - Voces Extra en Japones
 originalAuthor: Svenchu
 description: Cambia las voces de las escenas Final Mix al JAPONES (nunca fueron dobladas al castellano).
-dependencies: Spanish Mix
+dependencies: TheSoraHD/KH2SpanishMix
 assets:
 - name: voice/us/event/eh13650sr.win32.scd
   method: copy
