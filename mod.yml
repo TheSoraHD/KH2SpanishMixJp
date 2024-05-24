@@ -1,0 +1,665 @@
+title: Spanish Mix - Voces Extra en Japones
+originalAuthor: Svenchu
+description: Cambia las voces de las escenas Final Mix al JAPONES (nunca fueron dobladas al castellano).
+dependencies: Spanish Mix
+assets:
+- name: voice/us/event/eh13650sr.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh13650sr.win32.scd
+- name: voice/us/event/eh13651rk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh13651rk.win32.scd
+- name: voice/us/event/eh13652sr_1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh13652sr_1.win32.scd
+- name: voice/us/event/eh13652sr_2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh13652sr_2.win32.scd
+- name: voice/us/event/eh13653rk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh13653rk.win32.scd
+- name: voice/us/event/eh13654sr.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh13654sr.win32.scd
+- name: voice/us/event/eh50101x8_1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50101x8_1.win32.scd
+- name: voice/us/event/eh50101x8_2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50101x8_2.win32.scd
+- name: voice/us/event/eh50102x3.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50102x3.win32.scd
+- name: voice/us/event/eh50103x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50103x8.win32.scd
+- name: voice/us/event/eh50104x3.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50104x3.win32.scd
+- name: voice/us/event/eh50105x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50105x8.win32.scd
+- name: voice/us/event/eh50106x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50106x8.win32.scd
+- name: voice/us/event/eh50201x3.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50201x3.win32.scd
+- name: voice/us/event/eh50202x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50202x2.win32.scd
+- name: voice/us/event/eh50203x7.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50203x7.win32.scd
+- name: voice/us/event/eh50204x0.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50204x0.win32.scd
+- name: voice/us/event/eh50205x9.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50205x9.win32.scd
+- name: voice/us/event/eh50206x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50206x2.win32.scd
+- name: voice/us/event/eh50207x9.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50207x9.win32.scd
+- name: voice/us/event/eh50208x3.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50208x3.win32.scd
+- name: voice/us/event/eh50209x0.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50209x0.win32.scd
+- name: voice/us/event/eh50210x7.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50210x7.win32.scd
+- name: voice/us/event/eh50211x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50211x1.win32.scd
+- name: voice/us/event/eh50212x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50212x1.win32.scd
+- name: voice/us/event/eh50301x7.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50301x7.win32.scd
+- name: voice/us/event/eh50302x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50302x1.win32.scd
+- name: voice/us/event/eh50303x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50303x1.win32.scd
+- name: voice/us/event/eh50304x7.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50304x7.win32.scd
+- name: voice/us/event/eh50305x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50305x1.win32.scd
+- name: voice/us/event/eh50306x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50306x1.win32.scd
+- name: voice/us/event/eh50307x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50307x1.win32.scd
+- name: voice/us/event/eh50401x7_1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50401x7_1.win32.scd
+- name: voice/us/event/eh50401x7_2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50401x7_2.win32.scd
+- name: voice/us/event/eh50402x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50402x2.win32.scd
+- name: voice/us/event/eh50403x0.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50403x0.win32.scd
+- name: voice/us/event/eh50404x3.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50404x3.win32.scd
+- name: voice/us/event/eh50405x0.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50405x0.win32.scd
+- name: voice/us/event/eh50406x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50406x2.win32.scd
+- name: voice/us/event/eh50407x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50407x1.win32.scd
+- name: voice/us/event/eh50408x3.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50408x3.win32.scd
+- name: voice/us/event/eh50501x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50501x2.win32.scd
+- name: voice/us/event/eh50502x0.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50502x0.win32.scd
+- name: voice/us/event/eh50503x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50503x2.win32.scd
+- name: voice/us/event/eh50504x0_1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50504x0_1.win32.scd
+- name: voice/us/event/eh50504x0_2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50504x0_2.win32.scd
+- name: voice/us/event/eh50505x7.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50505x7.win32.scd
+- name: voice/us/event/eh50506x7_1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50506x7_1.win32.scd
+- name: voice/us/event/eh50506x7_2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50506x7_2.win32.scd
+- name: voice/us/event/eh50507x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50507x1.win32.scd
+- name: voice/us/event/eh50508x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50508x1.win32.scd
+- name: voice/us/event/eh50601Ars.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50601Ars.win32.scd
+- name: voice/us/event/eh50601Brs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50601Brs.win32.scd
+- name: voice/us/event/eh50601Crs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50601Crs.win32.scd
+- name: voice/us/event/eh50601Drs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50601Drs.win32.scd
+- name: voice/us/event/eh50601Ers.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50601Ers.win32.scd
+- name: voice/us/event/eh50601Frk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50601Frk.win32.scd
+- name: voice/us/event/eh50601Grk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50601Grk.win32.scd
+- name: voice/us/event/eh50601Hrk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50601Hrk.win32.scd
+- name: voice/us/event/eh50601Jrk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50601Jrk.win32.scd
+- name: voice/us/event/eh50601lrk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50601lrk.win32.scd
+- name: voice/us/event/eh50601rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50601rs.win32.scd
+- name: voice/us/event/eh50602rk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50602rk.win32.scd
+- name: voice/us/event/eh50603Ars.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50603Ars.win32.scd
+- name: voice/us/event/eh50603rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50603rs.win32.scd
+- name: voice/us/event/eh50604Ars.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50604Ars.win32.scd
+- name: voice/us/event/eh50604rk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50604rk.win32.scd
+- name: voice/us/event/eh50605rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50605rs.win32.scd
+- name: voice/us/event/eh50606rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50606rs.win32.scd
+- name: voice/us/event/eh50607Ars.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50607Ars.win32.scd
+- name: voice/us/event/eh50607Brs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50607Brs.win32.scd
+- name: voice/us/event/eh50607Crs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50607Crs.win32.scd
+- name: voice/us/event/eh50607Frk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50607Frk.win32.scd
+- name: voice/us/event/eh50607Grk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50607Grk.win32.scd
+- name: voice/us/event/eh50607rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50607rs.win32.scd
+- name: voice/us/event/eh50608rk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50608rk.win32.scd
+- name: voice/us/event/eh50609rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50609rs.win32.scd
+- name: voice/us/event/eh50610rk_1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50610rk_1.win32.scd
+- name: voice/us/event/eh50610rk_2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50610rk_2.win32.scd
+- name: voice/us/event/eh50611rk.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50611rk.win32.scd
+- name: voice/us/event/eh50612Brs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50612Brs.win32.scd
+- name: voice/us/event/eh50612rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50612rs.win32.scd
+- name: voice/us/event/eh50613an.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50613an.win32.scd
+- name: voice/us/event/eh50614an.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50614an.win32.scd
+- name: voice/us/event/eh50615dz_1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50615dz_1.win32.scd
+- name: voice/us/event/eh50615dz_2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50615dz_2.win32.scd
+- name: voice/us/event/eh50616an.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50616an.win32.scd
+- name: voice/us/event/eh50701x4.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50701x4.win32.scd
+- name: voice/us/event/eh50702x6.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50702x6.win32.scd
+- name: voice/us/event/eh50703x4.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50703x4.win32.scd
+- name: voice/us/event/eh50704x6.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50704x6.win32.scd
+- name: voice/us/event/eh50705x4.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50705x4.win32.scd
+- name: voice/us/event/eh50706x6.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50706x6.win32.scd
+- name: voice/us/event/eh50707x4.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50707x4.win32.scd
+- name: voice/us/event/eh50708x4.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50708x4.win32.scd
+- name: voice/us/event/eh50709Ax4.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50709Ax4.win32.scd
+- name: voice/us/event/eh50709x2_1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50709x2_1.win32.scd
+- name: voice/us/event/eh50709x2_2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50709x2_2.win32.scd
+- name: voice/us/event/eh50710x6_1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50710x6_1.win32.scd
+- name: voice/us/event/eh50710x6_2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50710x6_2.win32.scd
+- name: voice/us/event/eh50711x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50711x2.win32.scd
+- name: voice/us/event/eh50712x6.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50712x6.win32.scd
+- name: voice/us/event/eh50713x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50713x2.win32.scd
+- name: voice/us/event/eh50714x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50714x2.win32.scd
+- name: voice/us/event/eh50715x2_1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50715x2_1.win32.scd
+- name: voice/us/event/eh50715x2_2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50715x2_2.win32.scd
+- name: voice/us/event/eh50716x6.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50716x6.win32.scd
+- name: voice/us/event/eh50717x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50717x2.win32.scd
+- name: voice/us/event/eh50718x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50718x2.win32.scd
+- name: voice/us/event/eh50719x6.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50719x6.win32.scd
+- name: voice/us/event/eh50720x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50720x2.win32.scd
+- name: voice/us/event/eh50721x6.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50721x6.win32.scd
+- name: voice/us/event/eh50722x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50722x2.win32.scd
+- name: voice/us/event/eh50723x6.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50723x6.win32.scd
+- name: voice/us/event/eh50724x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50724x2.win32.scd
+- name: voice/us/event/eh50725x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50725x2.win32.scd
+- name: voice/us/event/eh50726x2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/eh50726x2.win32.scd
+- name: voice/us/event/hb70101x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/hb70101x1.win32.scd
+- name: voice/us/event/hb70102xn.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/hb70102xn.win32.scd
+- name: voice/us/event/hb70103dz.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/hb70103dz.win32.scd
+- name: voice/us/event/hb70104xn.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/hb70104xn.win32.scd
+- name: voice/us/event/hb70105dz.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/hb70105dz.win32.scd
+- name: voice/us/event/tt05101x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05101x1.win32.scd
+- name: voice/us/event/tt05102x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05102x1.win32.scd
+- name: voice/us/event/tt05103x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05103x1.win32.scd
+- name: voice/us/event/tt05104rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05104rs.win32.scd
+- name: voice/us/event/tt05105x1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05105x1.win32.scd
+- name: voice/us/event/tt05201x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05201x8.win32.scd
+- name: voice/us/event/tt05202an.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05202an.win32.scd
+- name: voice/us/event/tt05203x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05203x8.win32.scd
+- name: voice/us/event/tt05204x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05204x8.win32.scd
+- name: voice/us/event/tt05205na.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05205na.win32.scd
+- name: voice/us/event/tt05206na.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05206na.win32.scd
+- name: voice/us/event/tt05207x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05207x8.win32.scd
+- name: voice/us/event/tt05208x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05208x8.win32.scd
+- name: voice/us/event/tt05209na.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05209na.win32.scd
+- name: voice/us/event/tt05210an.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05210an.win32.scd
+- name: voice/us/event/tt05211x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05211x8.win32.scd
+- name: voice/us/event/tt05212an.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05212an.win32.scd
+- name: voice/us/event/tt05213na.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05213na.win32.scd
+- name: voice/us/event/tt05214an.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05214an.win32.scd
+- name: voice/us/event/tt05215x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05215x8.win32.scd
+- name: voice/us/event/tt05216na.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05216na.win32.scd
+- name: voice/us/event/tt05301x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05301x8.win32.scd
+- name: voice/us/event/tt05302rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05302rs.win32.scd
+- name: voice/us/event/tt05303rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05303rs.win32.scd
+- name: voice/us/event/tt05304x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05304x8.win32.scd
+- name: voice/us/event/tt05305rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05305rs.win32.scd
+- name: voice/us/event/tt05306x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05306x8.win32.scd
+- name: voice/us/event/tt05307rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05307rs.win32.scd
+- name: voice/us/event/tt05308x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05308x8.win32.scd
+- name: voice/us/event/tt05309rs_1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05309rs_1.win32.scd
+- name: voice/us/event/tt05309rs_2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05309rs_2.win32.scd
+- name: voice/us/event/tt05310x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05310x8.win32.scd
+- name: voice/us/event/tt05311rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05311rs.win32.scd
+- name: voice/us/event/tt05312x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05312x8.win32.scd
+- name: voice/us/event/tt05313Ars.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05313Ars.win32.scd
+- name: voice/us/event/tt05313Brs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05313Brs.win32.scd
+- name: voice/us/event/tt05313x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05313x8.win32.scd
+- name: voice/us/event/tt05314rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05314rs.win32.scd
+- name: voice/us/event/tt05315x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05315x8.win32.scd
+- name: voice/us/event/tt05316rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05316rs.win32.scd
+- name: voice/us/event/tt05317x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05317x8.win32.scd
+- name: voice/us/event/tt05318rs.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05318rs.win32.scd
+- name: voice/us/event/tt05319x8.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/tt05319x8.win32.scd
